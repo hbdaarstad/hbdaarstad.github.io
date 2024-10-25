@@ -6,7 +6,9 @@ title: "Teaching"
 
 -   Intro to Comparative Politics, *Spring 2024*
 
--   The Scientific Study of Politics, *Fall 2023 & 2024, Winter 2024, Spring 2024*
+-   The Scientific Study of Politics, *Fall 2023 & 2024, Winter 2024, Spring 2024* 
+
+*[Teaching Materials for The Scientific Study of Politics](https://github.com/hbdaarstad/POL-051-Teaching-Materials)*
 
 ### **Graduate Teaching Assistant without Sections**
 

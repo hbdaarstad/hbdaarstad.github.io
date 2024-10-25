@@ -1,0 +1,45 @@
+---
+title: "Research"
+---
+
+![](pic02.jpg){fig-align="center" width="429"}
+
+### Dissertation
+
+My dissertation focuses on the intersection of criminal violence and gender with a specialized focus on Mexico. I explore three various stages of the electoral process and how criminal violence plays a role.
+
+*Chair:* Lauren Young
+
+*Committee Members:* Sandra Ley, Juan Tellez, and Hanno Hilbig
+
+### Publications
+
+**Daarstad, Haley**, RyuGyung Park, and Timea Balogh. 2023. A Comment on Herzog, Baron, and Gibbons (2022). I4R Discussion Paper Series No. 97. Institute for Replication.
+
+#### Working Papers
+
+The Effects of Criminal Violence on Candidate Selection.
+
+Gender Differences and High Profile Criminal Violence.
+
+Gender Differences in Leadership and Criminal Violence.
+
+The Causes and Effects of Lynchings (with Young, Ley, and Baron).
+
+Gender Differences in Lynching Attitudes and Participation in Mexico.
+
+### Research Assistant Positions
+
+Research Assistant, Dr. Christopher Stout at Oregon State University, 2020-2021
+
+Assisted with content analysis in regards to research evaluating the perceptions of gender and race in the media. Responsible for the collection and organizing of data and content analysis of the news during the democratic primary
+
+Research Assistant, Dr. Daniel Faltesek at Oregon State University, 2020
+
+Assisted with design and implementation of research in computational social science and content analysis. Responsible for collecting data, developing code, and analyzing networks and content in regards to presidential speeches, modeling, and Twitter posts.
+
+## Conferences
+
+Western Political Science Association, 2021, 2023
+
+Midwestern Political Science Association, 2023, 2024

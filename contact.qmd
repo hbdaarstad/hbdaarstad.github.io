@@ -1,0 +1,9 @@
+---
+title: "Contact Me"
+---
+
+**Want to get in touch or have questions? Please feel free to email me!**
+
+[hbdaarstad\@ucdavis.edu](mailto:hbdaarstad@ucdavis.edu)
+
+![](images/IMG_0104.JPG){fig-align="center" width="312"}

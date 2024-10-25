@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,700;1,400;1,700&family=Rethink+Sans:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&display=swap');
+
+
+
+$font-family-sans-serif: "Rethink Sans" !default;
+
+$headings-font-family: "Montserrat" !default;
+$headings-font-weight: 600 !default;
+
+$navbar-font-family: "Montserrat" !default;
+$toc-font-family: "Montserrat" !default;
+$footer-font-family: "Montserrat" !default;
+
+
+// Body
+$body-color: #212529 !default;
+
+// Navbar
+$navbar-bg: #385237 !default;
+$navbar-fg: #ffffff !default;
+$navbar-hl: #ffffff !default;
+
+
+// Links
+$link-color:  #022851 !default;
+$link-decoration: underline !default;
+$link-hover-color: #3093CF !default;
+$link-hover-decoration: underline !default;

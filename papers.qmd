@@ -6,11 +6,11 @@ title: "Research"
 
 ### Dissertation
 
-My dissertation focuses on the intersection of criminal violence and gender with a specialized focus on Mexico. I explore three various stages of the electoral process and how criminal violence plays a role.
+My dissertation focuses on the intersection of criminal-electoral violence and gender with a specialized focus on Mexico. I explore the arch of the electoral process (candidate selection, the campaign, and post-election) to understand how criminal vilence impacts the electoral process and how gender shapes that experience. 
 
-*Chair:* Lauren Young
+*Chair:* Lauren Young (Associate Professor, UCD)
 
-*Committee Members:* Sandra Ley, Juan Tellez, and Hanno Hilbig
+*Committee Members:* Sandra Ley (Distinguished Professor, ITESM), Juan Tellez (Associate Professor, UCD), and Hanno Hilbig (Assistant Professor, UCD)
 
 ### Publications
 
@@ -45,3 +45,5 @@ Assisted with design and implementation of research in computational social scie
 Western Political Science Association, 2021, 2023
 
 Midwestern Political Science Association, 2023, 2024
+
+Upcoming: European Political Science Association, American Political Science Association

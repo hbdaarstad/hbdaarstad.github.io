@@ -15,7 +15,9 @@ website:
          href: index.qmd
        - papers.qmd
        - teaching.qmd
+       - data.qmd
        - contact.qmd
+       - gallery.qmd
   page-footer: 
     center: "COPYRIGHT ©2024, Haley Daarstad. ALL RIGHTS RESERVED."
     background: light

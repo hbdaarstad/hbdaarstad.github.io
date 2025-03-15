@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Packages",
+    "section": "",
+    "text": "1. Random Data\nI created a data package for my students in POL 051, called RandomData\nIncluded in the data package is:\n\nF1 Data\n\nView the Data Package on GitHub\nTo install the package in R:\n\n install.packages(\"remotes\")\n remotes::install_github(\"hbdaarstad/RandomData\")"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Haley Daarstad",
     "section": "",
-    "text": "Bio\nHello! I am a PhD Candidate in the political science department at The University of California, Davis where I research electoral and criminal violence with a focus on gender and research methods. My research interests deal with electoral and criminal violence and its gendered dimension. I am interested in understanding how various forms of violence affects women’s political participation in the electoral process. Methodologically, I am interested in the use of causal inference and machine learning.\nI was born and raised in California, and attended Oregon State University where I obtained a bachelors degree in Political Science and New Media Communications in 2021. In my free time, I enjoy trail riding and cross-country skiing, and playing any type of games with my friends. I am also a huge fan of Formula1.\n\n\nEducation\n\n\n🎓 PhD in Political Science, expected 2026 | University of California, Davis\n\n\n🎓 BS in Political Science, 2021 | Oregon State University\n\n\n🎓 BS in New Media Communications, 2021 | Oregon State University\n\n\n\n\nResearch interests\nElectoral Violence | Criminal Violence | Gender"
+    "text": "Bio\nHello and welcome! My name is Haley and I am a PhD Candidate in the political science department at The University of California, Davis. I research electoral and criminal violence with a focus on gender and research methods. Specifically, I am interested in electoral and criminal violence and its gendered dimension, such as understanding how various forms of violence affect how women participate in the electoral process. Methodologically, I am interested in the use of causal inference and machine learning.\nOther than academics, I was born and raised in California, and attended Oregon State University where I obtained a bachelors degree in Political Science and New Media Communications in 2021. In my free time, I enjoy trail riding, running and downhill and cross-country skiing. I also love playing any type of games with my friends. I am also a huge fan of Formula1, papaya are my colors.\n\n\nEducation\n\n\n🎓 PhD in Political Science, expected 2026 | University of California, Davis\n\n\n🎓 BS in Political Science, 2021 | Oregon State University\n\n\n🎓 BS in New Media Communications, 2021 | Oregon State University\n\n\n\n\nResearch interests\nElectoral Violence | Criminal Violence | Gender"
   },
   {
     "objectID": "contact.html",
@@ -18,13 +25,13 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Graduate Teaching Assistant with Sections\n\nIntro to Comparative Politics, Spring 2024\nThe Scientific Study of Politics, Fall 2023 & 2024, Winter 2024, Spring 2024\n\n\n\nGraduate Teaching Assistant without Sections\n\nPolitical Psychology, Fall 2024\nRussian Politics, Winter 2024\nIntro to Political Modeling, Spring 2023\nUS Public Opinion, Winter 2023\nBritish Politics, Fall 2022\nMedia and Politics, Summer 2022\nGroup Identity Politics, Spring 2022\nInternational Political Economy, Winter 2022\n\n\n\nGraduate Reader\n\nPost WWII European History, Spring 2023\nUS Foreign Relations in the Twentieth Century, Winter 2023\nPost WWII American History, Fall 2022"
+    "text": "Graduate Teaching Assistant with Sections\n\nIntro to Comparative Politics, Spring 2024\nThe Scientific Study of Politics, Fall 2023 - Present\n\nTeaching Materials for The Scientific Study of Politics.\n\n\nGraduate Teaching Assistant without Sections\n\nComparitive Electoral Systems, Winter 2025\nPolitical Psychology, Fall 2024\nRussian Politics, Winter 2024\nIntro to Political Modeling, Spring 2023\nUS Public Opinion, Winter 2023\nBritish Politics, Fall 2022\nMedia and Politics, Summer 2022\nGroup Identity Politics, Spring 2022\nInternational Political Economy, Winter 2022\n\n\n\nGraduate Reader\n\nPost WWII European History, Spring 2023\nUS Foreign Relations in the Twentieth Century, Winter 2023\nPost WWII American History, Fall 2022"
   },
   {
     "objectID": "papers.html#conferences",
     "href": "papers.html#conferences",
     "title": "Research",
     "section": "Conferences",
-    "text": "Conferences\nWestern Political Science Association, 2021, 2023\nMidwestern Political Science Association, 2023, 2024"
+    "text": "Conferences\nWestern Political Science Association, 2021, 2023\nMidwestern Political Science Association, 2023, 2024\nUpcoming: European Political Science Association, American Political Science Association"
   }
 ]

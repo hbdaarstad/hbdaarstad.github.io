@@ -1,0 +1,24 @@
+---
+title: "Data Packages"
+---
+
+# 1. Random Data 
+
+I created a data package for my students in POL 051, called RandomData
+
+Included in the data package is:
+
+-   F1 Data
+
+[View the Data Package on GitHub](https://github.com/hbdaarstad/RandomData.git)
+
+To install the package in R:
+
+```{r}
+#| eval: false
+#| include: true
+
+ install.packages("remotes")
+ remotes::install_github("hbdaarstad/RandomData")
+
+```

@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "Haley Daarstad"
   site-url: "https://hbdaarstad.github.io/hbdaarstad/"
@@ -16,8 +16,9 @@ website:
        - papers.qmd
        - teaching.qmd
        - data.qmd
-       - contact.qmd
        - gallery.qmd
+  google-analytics:
+    tracking-id: "G-YEV9W8VPSW"
   page-footer: 
     center: "COPYRIGHT ©2024, Haley Daarstad. ALL RIGHTS RESERVED."
     background: light

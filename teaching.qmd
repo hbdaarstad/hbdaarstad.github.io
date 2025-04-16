@@ -6,13 +6,13 @@ title: "Teaching"
 
 -   Intro to Comparative Politics, *Spring 2024*
 
--   The Scientific Study of Politics, *Fall 2023 - Present* 
+-   The Scientific Study of Politics, *Fall 2023 - Present*
 
-[Teaching Materials](https://github.com/hbdaarstad/POL-051-Teaching-Materials) for The Scientific Study of Politics.
+[Teaching Materials](https://github.com/hbdaarstad/POL-051-Teaching-Materials) for The Scientific Study of Politics on github and a link to my [R for The Scientific Study of Politics](https://www.haleydaarstad.com/POL051.github.io/).
 
 ### **Graduate Teaching Assistant without Sections**
 
--   Comparitive Electoral Systems, *Winter 2025*
+-   Comparative Electoral Systems, *Winter 2025*
 
 -   Political Psychology, *Fall 2024*
 

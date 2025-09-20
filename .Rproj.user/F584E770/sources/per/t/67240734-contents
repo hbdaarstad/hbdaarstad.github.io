@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Haley Daarstad"
+  site-url: "https://hbdaarstad.github.io/hbdaarstad/"
+  description: "Haley Daarstad is an PhD Candidate at UC Davis."
+  search: false
+  navbar:
+    background: primary
+    search: true
+    left:
+       - text: "Home"
+         href: index.qmd
+       - papers.qmd
+       - teaching.qmd
+       - data.qmd
+       - gallery.qmd
+  google-analytics:
+    tracking-id: "G-YEV9W8VPSW"
+  page-footer: 
+    center: "COPYRIGHT ©2024, Haley Daarstad. ALL RIGHTS RESERVED."
+    background: light
+ 
+format:
+  html:
+    theme:
+      - sandstone
+      - custom.scss
+    toc: false
+    highlight-style: monokai

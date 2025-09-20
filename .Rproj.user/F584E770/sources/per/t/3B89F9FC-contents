@@ -1,0 +1,28 @@
+---
+title: "Data Packages"
+---
+
+# 1. Random Data 
+
+For my POL 051 discussion sections I have developed a data package called RandomData. In this data package I have added curated datasets for my students to show them examples of code. The goal of the data package is to include various data sets to help students grasp the basics of R and concepts around analyzing and visualizing data.
+
+Included in the data package is:
+
+-   F1 Race Statistics
+-   F1 Driver Statistics
+-   F1 Constructor Statistics
+-   ANES 2008 Time Series Data
+-   ACLED Conflict Data from Mexico and Colombia
+
+[View the Data Package on GitHub](https://github.com/hbdaarstad/RandomData.git)
+
+To install the package in R:
+
+```{r}
+#| eval: false
+#| include: true
+
+ install.packages("remotes")
+ remotes::install_github("hbdaarstad/RandomData")
+
+```

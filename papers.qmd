@@ -2,13 +2,9 @@
 title: "Research"
 ---
 
-<div style="text-align: center;">
-  <img src="pic02.jpg" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
-</div>
-
 ### Dissertation
 
-My dissertation focuses on the intersection of criminal-electoral violence and gender with a specialized focus on Mexico. I explore the arch of the electoral process (candidate selection, the campaign, and post-election) to understand how criminal violence impacts the electoral process and how gender shapes that experience.
+Since the start of Mexico’s drug war in 2006, thousands have been killed by Organized Criminal Groups. Part of this violence is the rise of criminal-electoral violence— election violence by criminal organizations to manipulate the electoral outcome— which threatens democratic institutions and electoral systems. However, little research has looked at its consequences on the electoral system throughout the whole election arch and its impact on women and men differently. My project aims to address these gaps by reviewing criminal-electoral violence’s impact at each stage (candidate selection, the campaign, and post-election) and how gender shapes this experience so we can better understand the dynamics of criminal violence and what it means for the health of democratic institutions and elections. First, I explore how criminal-electoral violence influences who political parties select to run as candidates in Mexico and its impact on women candidates. Then, I break down how criminal organizations may change their behavior depending on the gender of a candidate they are trying to target. The final paper examines how gender differences among mayors may influence the level of criminal violence and perceptions of security in their communities. Ultimately, by addressing the impact of criminal-electoral violence on women participating in politics and the whole arch of the electoral process, my project contributes to a more thorough understanding of the consequences of criminal violence and its impact on the health and stability of democratic institutions and electoral systems. My dissertation is part of a broader research agenda that explores the intersections of gender, violence, and crime, with a strong emphasis on the use of advanced statistical methods.
 
 *Chair:* Lauren Young (Associate Professor, UCD)
 
@@ -20,24 +16,28 @@ My dissertation focuses on the intersection of criminal-electoral violence and g
 
 ### Under Review
 
-**Daarstad, Haley** and Christopher Stout. 2025. The Virtuous Cycle: Female Political Incorporation and Media Coverage of Female Presidential Candidates in the United States.
+**Daarstad, Haley** and Christopher Stout. 2025. The Virtuous Cycle: Female Political Incorporation and Media Coverage of Female Presidential Candidates in the United States. *Draft Available Upon Request*
 
 ### Working Papers
 
-The Effects of Criminal Violence on Candidate Selection.
+Baron, H., **Daarstad, H.**, Ley, S., Young, L. Crime deterrent or downward spiral? Longitudinal evidence on the effects of lynchings on crime from Mexico, 2009‑2022. *Draft Available Upon Request*
 
-Gender Differences and High Profile Criminal Violence.
+Forrester, D., **Daarstad, H.**, Joseph, A. Too Manly for Peace? Masculine Overcompensation and Support for Peace in Colombia. *Draft Available Upon Request*
 
-Gender Differences in Leadership and Criminal Violence.
+**Daarstad, H.** The Effects of Criminal Violence on Candidate Selection. *Draft Available Upon Request*
 
-The Causes and Effects of Lynchings (with Young, Ley, and Baron).
+**Daarstad, H.** Gender Differences in Leadership and Criminal Violence. *Draft Available Upon Request*
 
-Masculinity and Conflict in Colombia (with Forrester and Joseph).
+**Daarstad, H.** Gender Differences and High Profile Criminal Violence.
 
-## Conferences
+### Conferences
 
-Western Political Science Association, 2021, 2023
+American Political Science Association, 2025
+
+European Political Science Association, 2025
 
 Midwestern Political Science Association, 2023, 2024
 
-Upcoming: European Political Science Association, American Political Science Association
+Western Political Science Association, 2021, 2023
+
+Upcoming: Latin American Studies Association, *Paris, France,* 2026

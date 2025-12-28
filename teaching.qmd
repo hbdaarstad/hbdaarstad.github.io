@@ -4,9 +4,9 @@ title: "Teaching"
 
 ### **Graduate Teaching Assistant with Sections**
 
--   Intro to Comparative Politics, *Spring 2024*
+-   Intro to Comparative Politics, *Spring 2024; Fall 2025 - Present*
 
--   The Scientific Study of Politics, *Fall 2023 - Present*
+-   The Scientific Study of Politics, *Fall 2023 - Spring 2025*
 
 [Teaching Materials](https://github.com/hbdaarstad/POL-051-Teaching-Materials) for The Scientific Study of Politics on github and a link to my [R for The Scientific Study of Politics](https://www.haleydaarstad.com/POL051.github.io/).
 

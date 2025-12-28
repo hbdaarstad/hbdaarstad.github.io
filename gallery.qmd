@@ -95,11 +95,6 @@ include-in-header:
 </a>
 :::
 :::{.grid-item}
-<a href='adventures_photos/IMG_0013.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_0013.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
 <a href='adventures_photos/IMG_0147.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_0147.jpeg' alt='Adventure Image' />
 </a>
@@ -325,11 +320,6 @@ include-in-header:
 </a>
 :::
 :::{.grid-item}
-<a href='adventures_photos/IMG_1110.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_1110.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
 <a href='adventures_photos/IMG_1119.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_1119.jpeg' alt='Adventure Image' />
 </a>
@@ -370,11 +360,6 @@ include-in-header:
 </a>
 :::
 :::{.grid-item}
-<a href='adventures_photos/IMG_1646.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_1646.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
 <a href='adventures_photos/IMG_1780.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_1780.jpeg' alt='Adventure Image' />
 </a>
@@ -405,11 +390,6 @@ include-in-header:
 </a>
 :::
 :::{.grid-item}
-<a href='adventures_photos/IMG_2139.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_2139.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
 <a href='adventures_photos/IMG_2180.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_2180.jpeg' alt='Adventure Image' />
 </a>
@@ -422,11 +402,6 @@ include-in-header:
 :::{.grid-item}
 <a href='adventures_photos/IMG_2182.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_2182.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
-<a href='adventures_photos/IMG_2183.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_2183.jpeg' alt='Adventure Image' />
 </a>
 :::
 :::{.grid-item}
@@ -505,16 +480,6 @@ include-in-header:
 </a>
 :::
 :::{.grid-item}
-<a href='adventures_photos/IMG_2931.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_2931.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
-<a href='adventures_photos/IMG_2935.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_2935.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
 <a href='adventures_photos/IMG_3012.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_3012.jpeg' alt='Adventure Image' />
 </a>
@@ -522,11 +487,6 @@ include-in-header:
 :::{.grid-item}
 <a href='adventures_photos/IMG_3027.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_3027.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
-<a href='adventures_photos/IMG_3031.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_3031.jpeg' alt='Adventure Image' />
 </a>
 :::
 :::{.grid-item}
@@ -552,11 +512,6 @@ include-in-header:
 :::{.grid-item}
 <a href='adventures_photos/IMG_3695.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
   <img src='adventures_photos/IMG_3695.jpeg' alt='Adventure Image' />
-</a>
-:::
-:::{.grid-item}
-<a href='adventures_photos/IMG_4533.jpeg' data-lightbox='gallery' data-title='Adventure Image'>
-  <img src='adventures_photos/IMG_4533.jpeg' alt='Adventure Image' />
 </a>
 :::
 :::{.grid-item}

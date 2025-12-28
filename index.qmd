@@ -11,7 +11,7 @@ about:
       href: mailto:hbdaarstad@ucdavis.edu
     - icon: CV
       text: CV
-      href: https://www.dropbox.com/scl/fi/nhi2ach6thafjj0prf8cp/Curriculum-Vitae.pdf?rlkey=uto0956adme9kcrrn6nd27e7k&st=8d8089xi&dl=0
+      href: https://www.dropbox.com/scl/fi/3pisr3lcd445rski28x2u/Curriculum-Vitae.pdf?rlkey=kxhewjckqcxvmctn7lnugzrrh&st=xftin899&dl=0
     - icon: github
       text: GitHub
       href: https://github.com/hbdaarstad

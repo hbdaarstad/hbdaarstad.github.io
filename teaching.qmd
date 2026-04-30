@@ -4,13 +4,17 @@ title: "Teaching"
 
 ### **Graduate Teaching Assistant with Sections**
 
--   Intro to Comparative Politics, *Spring 2024; Fall 2025 - Present*
+-   Intro to Comparative Politics, *Spring 2024; Fall 2025; Winter 2026*
 
 -   The Scientific Study of Politics, *Fall 2023 - Spring 2025*
 
 [Teaching Materials](https://github.com/hbdaarstad/POL-051-Teaching-Materials) for The Scientific Study of Politics on github and a link to my [R for The Scientific Study of Politics](https://www.haleydaarstad.com/POL051.github.io/).
 
 ### **Graduate Teaching Assistant without Sections**
+
+-   Gender and Politics, *Spring 2026*
+
+-   International Political Economy, *Winter 2022; Spring 2026*
 
 -   Comparative Electoral Systems, *Winter 2025*
 
@@ -27,13 +31,3 @@ title: "Teaching"
 -   Media and Politics, *Summer 2022*
 
 -   Group Identity Politics, *Spring 2022*
-
--   International Political Economy, *Winter 2022*
-
-### **Graduate Reader**
-
--   Post WWII European History, *Spring 2023*
-
--   US Foreign Relations in the Twentieth Century, *Winter 2023*
-
--   Post WWII American History, *Fall 2022*

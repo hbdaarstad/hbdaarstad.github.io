@@ -14,6 +14,10 @@ Included in the data package is:
 -   ANES 2008 Time Series Data
 -   ACLED Conflict Data from Mexico and Colombia
 
+Upcoming Additions:
+
+- 2025 - 2026 NHL and PWHL Statistics
+
 [View the Data Package on GitHub](https://github.com/hbdaarstad/RandomData.git)
 
 To install the package in R:
@@ -26,3 +30,10 @@ To install the package in R:
  remotes::install_github("hbdaarstad/RandomData")
 
 ```
+
+
+# 2. Upcoming: 2000 - 2025 Mexico Municipiality President Election Data
+
+I am currently constructing a data set from 2000 to 2025 on Municipality Presidential Elections in Mexico. The data set will include the gender, party identification, vote totals, etc. 
+
+

@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hbdaarstad.github.io/hbdaarstad/data.html</loc>
-    <lastmod>2026-04-30T16:49:37.005Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hbdaarstad.github.io/hbdaarstad/index.html</loc>
-    <lastmod>2026-06-06T18:51:23.354Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hbdaarstad.github.io/hbdaarstad/teaching.html</loc>
-    <lastmod>2026-04-30T16:44:26.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hbdaarstad.github.io/hbdaarstad/papers.html</loc>
-    <lastmod>2026-04-30T16:42:42.948Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hbdaarstad.github.io/hbdaarstad/gallery.html</loc>
-    <lastmod>2025-12-28T00:57:32.725Z</lastmod>
+    <loc>https://haleydaarstad.com/data.html</loc>
+    <lastmod>2026-06-06T20:14:04.810Z</lastmod>
   </url>
   <url>
     <loc>https://haleydaarstad.com/index.html</loc>
@@ -29,15 +13,11 @@
     <lastmod>2026-06-06T20:14:04.810Z</lastmod>
   </url>
   <url>
-    <loc>https://haleydaarstad.com/data.html</loc>
-    <lastmod>2026-06-06T20:14:04.810Z</lastmod>
+    <loc>https://haleydaarstad.com/papers.html</loc>
+    <lastmod>2026-06-06T20:14:04.811Z</lastmod>
   </url>
   <url>
     <loc>https://haleydaarstad.com/gallery.html</loc>
     <lastmod>2026-06-06T20:14:04.813Z</lastmod>
-  </url>
-  <url>
-    <loc>https://haleydaarstad.com/papers.html</loc>
-    <lastmod>2026-06-06T20:14:04.811Z</lastmod>
   </url>
 </urlset>

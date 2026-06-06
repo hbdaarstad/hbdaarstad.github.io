@@ -1,39 +1,30 @@
 ---
 title: "Data Packages"
+toc: true
 ---
 
-# 1. Random Data 
+### RandomData
 
-For my POL 051 discussion sections I have developed a data package called RandomData. In this data package I have added curated datasets for my students to show them examples of code. The goal of the data package is to include various data sets to help students grasp the basics of R and concepts around analyzing and visualizing data.
+For my POL 051 discussion sections I developed a data package called **RandomData**. It includes curated datasets to help students grasp the basics of R and concepts around analyzing and visualizing data.
 
-Included in the data package is:
+Included datasets:
 
--   F1 Race Statistics
--   F1 Driver Statistics
--   F1 Constructor Statistics
--   ANES 2008 Time Series Data
--   ACLED Conflict Data from Mexico and Colombia
+- F1 Race, Driver & Constructor Statistics
+- ANES 2008 Time Series Data
+- ACLED Conflict Data from Mexico and Colombia
+- *Upcoming: 2025–2026 NHL and PWHL Statistics*
 
-Upcoming Additions:
+[View on GitHub](https://github.com/hbdaarstad/RandomData.git)
 
-- 2025 - 2026 NHL and PWHL Statistics
+To install in R:
 
-[View the Data Package on GitHub](https://github.com/hbdaarstad/RandomData.git)
-
-To install the package in R:
-
-```{r}
-#| eval: false
-#| include: true
-
- install.packages("remotes")
- remotes::install_github("hbdaarstad/RandomData")
-
+```r
+install.packages("remotes")
+remotes::install_github("hbdaarstad/RandomData")
 ```
 
+---
 
-# 2. Upcoming: 2000 - 2025 Mexico Municipiality President Election Data
+### Upcoming: Mexico Municipality Presidential Election Data
 
-I am currently constructing a data set from 2000 to 2025 on Municipality Presidential Elections in Mexico. The data set will include the gender, party identification, vote totals, etc. 
-
-
+I am currently constructing a dataset of municipality-level presidential elections in Mexico from 2000 to 2025, including candidate gender, party identification, and vote totals.

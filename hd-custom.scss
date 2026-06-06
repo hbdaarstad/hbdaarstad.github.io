@@ -1,0 +1,351 @@
+/*-- scss:defaults --*/
+
+// PRESSMARK - adapted for haleydaarstad.com
+// Based on mw-custom.scss by Marten Walk (https://martenw.com)
+// Colors adapted to earthy green palette
+
+// Font Imports
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+// ----------------------------------------------------------------------------
+// EARTHY GREEN COLOR PALETTE
+$primary-color: #FFF1E5;          // warm parchment background
+$primary-color-shade: #E2DDD4;    // code blocks, cards
+$highlight-color: #BF4E0A;        // earthy forest green — accents, links
+$highlight-color-shade: #E06500;  // hover color
+$dark: #1B2A4A;                   // borders
+$font-color: #1B2A4A;             // body text
+
+
+// ############################################################################
+// BOOTSTRAP DEFINITIONS
+// ############################################################################
+
+$font-family-headings: 'Playfair Display', 'Bodoni', 'Times New Roman', serif;
+$font-family-text: 'Josefin Sans', 'Geneva', 'Arial', sans-serif;
+$font-family-smallcaps: 'Playfair Display SC', 'Playfair Display', serif;
+$font-family-monospace: "Liberation Mono", "Courier New", monospace;
+
+$font-family-base: $font-family-text;
+$font-size-base: 18px;
+$font-weight-base: 250;
+$line-height-base: 1.35;
+$font-size-small: 0.85em;
+$bold-weight: 700;
+
+$link-color: $highlight-color;
+$body-bg: $primary-color;
+$body-color: $font-color;
+$code-block-bg: $primary-color-shade;
+$code-bg: $primary-color-shade;
+$code-color: $font-color;
+$border-color: darken($primary-color-shade, 5%);
+$headings-color: $font-color;
+
+$navbar-bg: $primary-color;
+$navbar-fg: $highlight-color;
+$navbar-toggler-border-radius: 0px;
+$navbar-toggler-border-color: $primary-color;
+$navbar-toggler-focus-width: 2px;
+$navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%234A6741' stroke-linecap='butt' stroke-miterlimit='10' stroke-width='1.2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+$footer-bg: #1A1A1A;
+$footer-fg: #F0EDE5;
+
+$table-border-width: 0px;
+$table-border-color: $highlight-color;
+
+
+/*-- scss:rules --*/
+// ############################################################################
+// QUARTO-SPECIFIC ELEMENTS
+// ############################################################################
+
+.navbar {
+  font-family: $font-family-text;
+  font-weight: 400;
+  margin: 0vw 5vw 0vw 5vw;
+  border-bottom: 1px solid $dark;
+  min-height: 80px;
+  .navbar-title {
+    font-family: $font-family-headings;
+    font-weight: 700;
+    font-style: italic;
+    color: $font-color;
+  }
+  a:hover {
+    text-decoration: underline solid $highlight-color;
+  }
+}
+
+.footer {
+  font-family: $font-family-headings;
+  font-size: $font-size-small;
+}
+
+.quarto-title-block {
+  padding-bottom: 2em;
+  padding-top: 5vh;
+  border-bottom: 1px solid $dark;
+}
+
+.quarto-title-meta-heading {
+  font-family: $font-family-headings;
+  color: $highlight-color;
+}
+
+.quarto-title-meta-contents {
+  font-family: $font-family-headings;
+}
+
+header:empty {
+  border-bottom: 0px solid $dark !important;
+  padding: 0 !important;
+}
+
+h1.title { margin-bottom: 0.5em !important; }
+
+.quarto-category {
+  border: 0px !important;
+  color: $highlight-color;
+  opacity: 1 !important;
+  padding: 0em !important;
+  font-weight: 350;
+}
+.quarto-category::after { content: ", "; }
+.quarto-category:last-child::after { content: ""; }
+.quarto-categories::before {
+  content: "TAGS: ";
+  font-size: 0.65em;
+  font-weight: 350;
+  color: $highlight-color;
+}
+
+nav[id*="TOC"] {
+  background-color: $primary-color-shade;
+  padding: 0.5em 1em;
+  margin-bottom: 1em;
+  #toc-title {
+    font-size: $font-size-small;
+    font-family: $font-family-headings;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+  li a {
+    font-family: $font-family-headings;
+    color: $font-color;
+  }
+}
+
+nav.toc-active { background-color: $primary-color; }
+
+nav#TOC-body {
+  li::marker { content: "→ "; }
+  li a { font-size: $font-size-small; }
+}
+
+nav:not(.toc-active)#TOC {
+  li::marker { content: "→ "; }
+  li a { font-size: $font-size-small; }
+}
+
+@media (max-width: 767.98px) {
+  #quarto-content nav[role='doc-toc'] { display: block; }
+}
+
+.quarto-post {
+  border-bottom: 1px solid $dark !important;
+  padding-bottom: 1em;
+  .listing-title {
+    font-family: $font-family-headings;
+    padding-bottom: 0.5em;
+    font-size: 1.5rem;
+    color: $font-color !important;
+  }
+  .listing-date {
+    font-family: $font-family-text;
+    color: $highlight-color;
+  }
+  .listing-author { font-family: $font-family-text; }
+}
+
+.card {
+  background-color: $primary-color-shade;
+  border: 0px solid $dark;
+  border-radius: 5px;
+  line-height: 1.2em;
+  .listing-date {
+    font-family: $font-family-headings;
+    color: $highlight-color;
+  }
+  .listing-title { margin-bottom: 0.5em; }
+}
+
+.listing-description {
+  font-family: $font-family-text;
+  font-weight: 300;
+  color: $font-color;
+}
+
+.quarto-listing-container-default { margin-right: 0px !important; }
+
+#quarto-appendix.default { border-top: 1px solid $dark; }
+
+
+// ############################################################################
+// MARKDOWN ELEMENTS
+// ############################################################################
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: $font-family-headings;
+  font-weight: 500;
+  border-bottom: 0px !important;
+  color: $font-color;
+  line-height: 1.2em;
+  padding-bottom: 0em;
+}
+
+strong em {
+  font-family: $font-family-smallcaps;
+  font-weight: 500 !important;
+  font-style: normal;
+  font-size: $font-size-small;
+}
+
+strong em code {
+  font-size: 4.85em;
+  font-weight: 500;
+  float: left;
+  margin-top: 0.11em;
+  margin-right: 0.175em;
+  line-height: 0.7;
+  padding: 0 !important;
+  text-align: left;
+  background-color: $primary-color !important;
+  font-family: $font-family-headings;
+}
+
+hr {
+  overflow: visible;
+  padding: 0;
+  border: none;
+  border-top: medium double $font-color;
+  color: $font-color;
+  text-align: center;
+  margin: 2em 10vw 2em 10vw;
+  opacity: 0.8;
+  &:after {
+    content: "§";
+    font-family: $font-family-headings;
+    display: inline-block;
+    position: relative;
+    top: -0.9em;
+    padding: 0 0.25em;
+    background: $primary-color;
+  }
+}
+
+button:not([class]) {
+  border: 1px solid $highlight-color;
+  padding: 0.2em 1em 0.05em 1em;
+  border-radius: 0px;
+  min-width: 60px;
+  color: $highlight-color;
+  margin: 0.2em 0.2em;
+  background-color: transparent;
+  box-shadow: 3px 3px $highlight-color;
+  &:hover { background-color: $highlight-color-shade; }
+}
+
+a { font-weight: 300; }
+
+.blockquote {
+  border-left: 5px solid $highlight-color;
+  padding-left: 1rem;
+  font-family: $font-family-headings;
+  font-size: $font-size-small;
+  border-radius: .25rem;
+  background-color: $primary-color-shade;
+  text-align: center;
+  color: $font-color;
+  margin: 2em 2vw 2em 2vw;
+  strong em { color: $highlight-color; }
+}
+
+.table {
+  .odd { background-color: $primary-color-shade; }
+  .header { border-bottom: 1px double $dark; }
+}
+
+pre {
+  background-color: $code-block-bg;
+  padding: 1em;
+  border-radius: 5px;
+  font-size: $font-size-small;
+}
+
+.code-with-filename-file {
+  background-color: darken($code-block-bg, 5%) !important;
+  border: 0px !important;
+  pre {
+    border-radius: 0px;
+    padding: 0px;
+    background-color: darken($code-block-bg, 5%);
+  }
+}
+
+details { border-bottom: 1px solid black; }
+summary {
+  cursor: pointer;
+  font-family: $font-family-headings;
+  font-size: 1.4rem;
+  color: $font-color !important;
+  padding: 0.75rem 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+summary::-webkit-details-marker { display: none; }
+summary::before {
+  content: '';
+  display: inline-block;
+  width: 0.45em;
+  height: 0.45em;
+  border-top: 1.5px solid currentColor;
+  border-right: 1.5px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 0.2s;
+  margin-right: 0.5em;
+  flex-shrink: 0;
+}
+details[open] > summary::before { transform: rotate(135deg); }
+
+
+// ############################################################################
+// CUSTOM CLASSES
+// ############################################################################
+
+.content-block {
+  border-bottom: 1px solid $dark;
+  margin-bottom: 2em;
+}
+
+.headroom { background-color: $primary-color; }
+
+.title-block {
+  background-color: $primary-color-shade;
+  font-size: 20px;
+  border-radius: 5px;
+  + .text-block {
+    padding: 1em;
+    p { margin: auto; }
+  }
+  p { margin: 0; }
+  .img-text {
+    padding: 1em;
+    margin: auto;
+  }
+  .img-fluid { border-radius: 3px 3px 0px 0px; }
+}

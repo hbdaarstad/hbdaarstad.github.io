@@ -1,32 +1,51 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Haley Daarstad"
-  site-url: "https://hbdaarstad.github.io/hbdaarstad/"
-  description: "Haley Daarstad is an PhD Candidate at UC Davis."
+  site-url: "https://haleydaarstad.com"
+  description: "PhD Candidate in Political Science at UC Davis, studying criminal violence and gender."
   search: false
   navbar:
-    background: primary
-    search: true
+    title: "Haley Daarstad"
+    collapse-below: lg
+    right:
+      - text: "research"
+        href: papers.qmd
+      - text: "teaching"
+        href: teaching.qmd
+      - text: "data"
+        href: data.qmd
+      - text: "gallery"
+        href: gallery.qmd
+  page-navigation: true
+  back-to-top-navigation: false
+  page-footer:
     left:
-       - text: "Home"
-         href: index.qmd
-       - papers.qmd
-       - teaching.qmd
-       - data.qmd
-       - gallery.qmd
+      - text: "© 2026 Haley Daarstad"
+    center:
+      - href: https://github.com/hbdaarstad
+        icon: github
+        aria-label: GitHub
+      - href: mailto:hbdaarstad@ucdavis.edu
+        icon: envelope
+        aria-label: Email
+    right:
+      - text: "haleydaarstad.com"
+        href: https://haleydaarstad.com
   google-analytics:
     tracking-id: "G-YEV9W8VPSW"
-  page-footer: 
-    center: "COPYRIGHT ©2025, Haley Daarstad. ALL RIGHTS RESERVED."
-    background: light
- 
+
 format:
   html:
-    theme:
-      - sandstone
-      - custom.scss
+    theme: [hd-custom.scss]
     toc: false
-    highlight-style: monokai
+    grid:
+      body-width: 800px
+
+link-external-icon: false
+link-external-newwindow: true
+
+execute:
+  freeze: auto

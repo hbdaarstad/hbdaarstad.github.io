@@ -3,24 +3,31 @@ title: "Teaching"
 toc: true
 ---
 
+### Lecturer
+
+-   The Scientific Study of Politics, *Summer 2026*
+    -   Undergraduate Political Science methods course at UC Davis
+        -   Course Website:  <https://haleydaarstad.com/pol051-su26/course-overview.html>
+            -   Short cut to the course syllabus: <https://haleydaarstad.com/pol051-su26/course-syllabus.html>
+
 ### Graduate Teaching Assistant with Sections
 
-- Intro to Comparative Politics, *Spring 2024; Fall 2025; Winter 2026*
-- The Scientific Study of Politics, *Fall 2023 – Spring 2025*
+-   Intro to Comparative Politics, *Spring 2024; Fall 2025; Winter 2026*
+-   The Scientific Study of Politics, *Fall 2023 – Spring 2025*
 
-[Teaching Materials](https://github.com/hbdaarstad/POL-051-Teaching-Materials) for The Scientific Study of Politics on GitHub and a link to my [R for The Scientific Study of Politics](https://www.haleydaarstad.com/POL051.github.io/).
+[Section Teaching Materials](https://github.com/hbdaarstad/POL-051-Teaching-Materials) for The Scientific Study of Politics on GitHub and a link to my [R for The Scientific Study of Politics](https://www.haleydaarstad.com/POL051.github.io/).
 
----
+------------------------------------------------------------------------
 
 ### Graduate Teaching Assistant without Sections
 
-- Gender and Politics, *Spring 2026*
-- International Political Economy, *Winter 2022; Spring 2026*
-- Comparative Electoral Systems, *Winter 2025*
-- Political Psychology, *Fall 2024*
-- Russian Politics, *Winter 2024*
-- Intro to Political Modeling, *Spring 2023*
-- US Public Opinion, *Winter 2023*
-- British Politics, *Fall 2022*
-- Media and Politics, *Summer 2022*
-- Group Identity Politics, *Spring 2022*
+-   Gender and Politics, *Spring 2026*
+-   International Political Economy, *Winter 2022; Spring 2026*
+-   Comparative Electoral Systems, *Winter 2025*
+-   Political Psychology, *Fall 2024*
+-   Russian Politics, *Winter 2024*
+-   Intro to Political Modeling, *Spring 2023*
+-   US Public Opinion, *Winter 2023*
+-   British Politics, *Fall 2022*
+-   Media and Politics, *Summer 2022*
+-   Group Identity Politics, *Spring 2022*

@@ -327,12 +327,97 @@ details[open] > summary::before { transform: rotate(135deg); }
 // CUSTOM CLASSES
 // ############################################################################
 
+// Publication topic filter buttons
+.theme-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 2rem;
+
+  button {
+    font-family: $font-family-text;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: $font-color;
+    background-color: transparent;
+    border: 1px solid $dark;
+    border-radius: 999px;       // pill shape
+    padding: 0.35rem 1rem;
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+
+    &:hover {
+      border-color: $highlight-color;
+      color: $highlight-color;
+    }
+
+    &.active {
+      background-color: $highlight-color;
+      border-color: $highlight-color;
+      color: $primary-color;
+      font-weight: 700;
+    }
+  }
+}
+
+// individual publication entries that get shown/hidden by the filters
+.pub-item { margin-bottom: 1.25rem; }
+.pub-hidden { display: none; }
+
 .content-block {
   border-bottom: 1px solid $dark;
   margin-bottom: 2em;
 }
 
 .headroom { background-color: $primary-color; }
+
+// Featured course card (Teaching page)
+.course-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+  border-bottom: 1px solid $dark;
+  padding-bottom: 2rem;
+  margin: 1rem 0 2rem;
+}
+.course-card .course-meta {
+  flex: 0 0 130px;
+  font-family: $font-family-text;
+  color: $font-color;
+  opacity: 0.75;
+}
+.course-card .course-meta span { display: block; }
+.course-card .course-instructor { margin-top: 0.25rem; }
+.course-card .course-content { flex: 1 1 320px; min-width: 240px; }
+.course-card .course-title {
+  font-family: $font-family-headings;
+  font-weight: 700;
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+.course-card .course-title a { color: $font-color; text-decoration: none; }
+.course-card .course-title a:hover { color: $highlight-color; }
+.course-card .course-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+}
+.course-card .course-tag {
+  font-family: $font-family-text;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border: 1px solid $highlight-color;
+  color: $highlight-color;
+  border-radius: 4px;
+  padding: 0.15rem 0.5rem;
+}
+.course-card .course-desc { margin: 0 0 0.5rem; }
+.course-card .course-links a { margin-right: 0.75rem; }
+.course-card .course-image { flex: 0 0 170px; }
+.course-card .course-image img { width: 100%; height: auto; display: block; }
 
 .title-block {
   background-color: $primary-color-shade;

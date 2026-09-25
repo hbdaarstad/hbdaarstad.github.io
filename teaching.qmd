@@ -41,6 +41,40 @@ Undergraduate political science methods course at UC Davis covering causal infer
 
 ### Graduate Teaching Assistant with Sections
 
+::::::::: {.pub-item data-topics="teaching-assistant"}
+:::::::: course-card
+::: course-meta
+[Fall 2026]{.course-date} [Haley Daarstad]{.course-instructor}
+:::
+
+::::: course-content
+::: course-title
+<a href="https://haleydaarstad.com/pol051-f26-section/course-overview.html">The Scientific Study of Politics (Discussion Sections)</a>
+:::
+
+::: course-tags
+[Undergraduate]{.course-tag} [Methods]{.course-tag} [R]{.course-tag} [Section]{.course-tag}
+:::
+
+<p class="course-desc">
+
+Discussion sections for POL 051 at UC Davis, where students work in smaller groups to clarify course material, practice data analysis in R, and build causal reasoning skills.
+
+</p>
+
+<p class="course-links">
+
+<a href="https://haleydaarstad.com/pol051-f26-section/course-overview.html">Section website</a> · <a href="https://haleydaarstad.com/pol051-f26-section/course-syllabus.html">Syllabus</a>
+
+</p>
+:::::
+
+::: course-image
+<img src="images/pol051-discussion-hex.png" alt="POL 051 discussion hex logo"/>
+:::
+::::::::
+:::::::::
+
 ::: {.pub-item data-topics="teaching-assistant"}
 -   Intro to Comparative Politics, *Spring 2024; Fall 2025; Winter 2026*
 -   The Scientific Study of Politics, *Fall 2023 – Spring 2025*

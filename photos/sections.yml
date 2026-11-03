@@ -1,0 +1,52 @@
+# Gallery sections, in the order they appear on the page.
+# - folder:   must match a folder name in photos/originals/
+# - title:    the heading shown on the site
+# - subtitle: optional line under the heading
+# - captions: optional; caption per photo, keyed by the ORIGINAL file name
+#
+# To add a new section: make a new folder in photos/originals/, put photos in it,
+# add an entry here, then run photos/build_photos.R and re-render the site.
+
+- folder: hockey
+  title: Hockey
+
+- folder: paris
+  title: Paris
+  subtitle: May 2026
+
+- folder: around-us
+  title: Around the U.S.
+  subtitle: Boston, Chicago, New York, Texas, North Carolina, Idaho, Colorado & more
+
+- folder: scotland
+  title: Scotland
+  subtitle: Glasgow & the Highlands, November 2025
+
+- folder: spain
+  title: Spain
+  subtitle: Madrid, Barcelona, Sitges & San Sebastian, summer 2025
+
+- folder: norway
+  title: Norway
+  subtitle: Oslo, February 2025
+
+- folder: argentina
+  title: Argentina
+  subtitle: Buenos Aires, Patagonia & Mendoza, September 2024
+
+- folder: mexico-city
+  title: Mexico City
+  subtitle: August 2024
+
+- folder: tahoe
+  title: Tahoe & Truckee
+
+- folder: yosemite-sierra
+  title: Yosemite & the Eastern Sierra
+
+- folder: california-coast
+  title: The California Coast
+  subtitle: Big Sur, Point Reyes, Bolinas & beyond
+
+- folder: around-california
+  title: Around California

@@ -4,3 +4,8 @@
 .Ruserdata
 
 /.quarto/
+
+# full-size photos stay in Dropbox only; the site uses photos/gallery/
+photos/originals/
+.photo_work/
+.DS_Store

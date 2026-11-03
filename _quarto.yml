@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - photos/gallery/
+    - CNAME
+    - files/
 
 website:
   title: "Haley Daarstad"

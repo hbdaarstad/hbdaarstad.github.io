@@ -10,7 +10,7 @@ toc: false
 ::::::: content-block
 :::::: grid
 :::: {.g-col-sm-5 .g-col-12}
-![](images/profile.jpg){width="100%" fig-alt="Haley Daarstad"}
+![](pic01.jpg){width="100%" fig-alt="Haley Daarstad"}
 
 ::: img-text
 My name is Haley and I am a PhD Candidate in the political science department at [The University of California, Davis](https://ps.ucdavis.edu/).
